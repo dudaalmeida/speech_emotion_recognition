@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/Servidor_Flask_Modelo"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"drivers.hpp": "c",
+			"kiss_fftr.h": "c",
+			"_kiss_fft_guts.h": "c"
+		}
+	}
+}
